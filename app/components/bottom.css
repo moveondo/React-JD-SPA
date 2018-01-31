@@ -1,0 +1,28 @@
+ #bottom-tool {
+     position: fixed;
+     z-index: 9;
+     padding: .05rem;
+     background: #fff;
+     display: flex;
+     bottom: 0rem;
+     width: 100%;
+     height: 2.5rem;
+     line-height: 1.2rem;
+ 
+ }
+
+a{
+    text-decoration: none;
+}
+  .tool-item {
+      width: 20%;
+      text-align: center;
+  }
+
+
+.text {
+     -webkit-text-size-adjust: none;
+     color: #666666;
+     line-height: 2rem;
+     font-size: 1rem;
+ }
